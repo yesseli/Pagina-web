@@ -1,5 +1,5 @@
 // app.js
-import apiUrl from './environment.js';
+import {apiUrl} from './environment.js';
 
 // Obtener referencias a los elementos del DOM
 const idInput = document.getElementById('id');
